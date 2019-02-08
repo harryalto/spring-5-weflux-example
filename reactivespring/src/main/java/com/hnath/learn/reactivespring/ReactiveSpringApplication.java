@@ -29,7 +29,7 @@ to this link for further details --> https://pro.coinmarketcap.com/signup?plan=0
 
  $ docker run -p 27017:27017 bitnami/mongodb:latest
 
-4.Run the Application with the API key as runtime argument. You dont want to hardcode in the code :-)
+4. Run the Application with the API key as runtime argument. You dont want to hardcode in the code :-)
    --api_key_value=YOUR KEY VALUE
 
  */

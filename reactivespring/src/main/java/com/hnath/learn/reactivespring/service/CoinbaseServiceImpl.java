@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.ReactiveMongoOperations;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
-import com.hnath.learn.reactivespring.config.PurchaseRepository;
+import com.hnath.learn.reactivespring.Repositories.PurchaseRepository;
 import com.hnath.learn.reactivespring.model.CoinBaseResponse;
 import com.hnath.learn.reactivespring.model.Purchase;
 import reactor.core.publisher.Flux;
