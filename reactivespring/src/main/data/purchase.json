@@ -1,0 +1,7 @@
+{ 
+    "_id" : ObjectId("5c5ca9660a72cb8633992ef2"), 
+    "name" : "BTC-USD", 
+    "price" : "3396.68122746", 
+    "createdAt" : ISODate("2019-02-07T21:55:50.471+0000"), 
+    "_class" : "com.hnath.learn.reactivespring.model.Purchase"
+}
