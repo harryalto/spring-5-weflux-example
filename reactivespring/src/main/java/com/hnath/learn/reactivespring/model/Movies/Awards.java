@@ -1,4 +1,4 @@
-package com.hnath.learn.reactivespring.model.Movies;
+package com.hnath.learn.reactivespring.model.movies;
 
 import lombok.Data;
 import lombok.Getter;

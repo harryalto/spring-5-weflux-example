@@ -22,7 +22,7 @@ curl -X GET 'http://localhost:8080/coin/purchase/v1/{id}'
 Prerequisites
 1. Install docker before running the command below.Refer to this link --> https://docs.docker
 .com/docker-for-mac/install/ for installing on mac.
-2. CoinMarketCap requires API KEY to access its API. Please make sure to get one before running this example. Refer
+2. coinMarketCap requires API KEY to access its API. Please make sure to get one before running this example. Refer
 to this link for further details --> https://pro.coinmarketcap.com/signup?plan=0
 
 3. Once docker is installed, make sure to start Mongo DB.

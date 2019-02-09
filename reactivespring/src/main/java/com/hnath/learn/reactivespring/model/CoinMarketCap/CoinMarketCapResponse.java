@@ -1,4 +1,4 @@
-package com.hnath.learn.reactivespring.model.CoinMarketCap;
+package com.hnath.learn.reactivespring.model.coinMarketCap;
 
 public class CoinMarketCapResponse
 {

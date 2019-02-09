@@ -5,10 +5,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import com.hnath.learn.reactivespring.model.Movies.Moviedetails;
-import com.hnath.learn.reactivespring.model.Movies.Movies;
-import com.hnath.learn.reactivespring.model.Movies.Reviews;
-import com.hnath.learn.reactivespring.service.Movies.MovieService;
+import com.hnath.learn.reactivespring.model.movies.Moviedetails;
+import com.hnath.learn.reactivespring.model.movies.Movies;
+import com.hnath.learn.reactivespring.model.movies.Reviews;
+import com.hnath.learn.reactivespring.service.movies.MovieService;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 

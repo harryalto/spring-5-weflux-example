@@ -1,8 +1,8 @@
-package com.hnath.learn.reactivespring.service.Movies;
+package com.hnath.learn.reactivespring.service.movies;
 
-import com.hnath.learn.reactivespring.model.Movies.Moviedetails;
-import com.hnath.learn.reactivespring.model.Movies.Movies;
-import com.hnath.learn.reactivespring.model.Movies.Reviews;
+import com.hnath.learn.reactivespring.model.movies.Moviedetails;
+import com.hnath.learn.reactivespring.model.movies.Movies;
+import com.hnath.learn.reactivespring.model.movies.Reviews;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 

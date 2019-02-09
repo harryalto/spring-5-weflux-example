@@ -1,4 +1,4 @@
-package com.hnath.learn.reactivespring.model.Movies;
+package com.hnath.learn.reactivespring.model.movies;
 
 import java.util.ArrayList;
 import org.springframework.data.annotation.Id;
